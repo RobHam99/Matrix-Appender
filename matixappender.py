@@ -19,10 +19,6 @@ def matrix(matlist):
             nextmatrow += n
             endpoint += n
 
-        else:
-            nextmatrow = nextmatrow
-            endpoint = endpoint
-
         if i % n == 0:
             nextmatcol = 0
             colendpoint = n
