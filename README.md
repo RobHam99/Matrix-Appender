@@ -3,7 +3,7 @@ Turns a list of n<sup>2</sup>, n x n matrices into an n<sup>2</sup> x n<sup>2</s
 
 Example:
 
-a = [2 0]<br/>    
+a = [2 0]<br/>   
 ----[4 4]                
 
 b = [5 5]<br/>
